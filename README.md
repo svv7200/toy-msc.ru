@@ -3,9 +3,9 @@ Development of a website for the sale of handmade stuffed toys.
 
 This repository contains the code for my awesome website, which consists of three pages:
 
-- [Home Page](#index.html)
-- [Catalog Page](#catalog.html)
-- [Contact Page](#send.html)
+- [Home Page](https://github.com/svv7200/toy-msc.ru/blob/main/index.html)
+- [Catalog Page](https://github.com/svv7200/toy-msc.ru/blob/main/catalog.html)
+- [Contact Page](https://github.com/svv7200/toy-msc.ru/blob/main/send.html)
 
 ## Home Page
 
