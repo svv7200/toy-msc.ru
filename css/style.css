@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat+Alternates:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap&subset=cyrillic,cyrillic-ext');
+
+
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    font-size: 20px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: 300;
+    color: #555;
+}
+
+
+main {
+    flex: 1 0 auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-weight: 500;
+}
+
+h1 {
+    font-size: 4rem;
+    font-weight: 200;
+}
+
+nav {
+    background-color: #fff;
+}
+
+nav .logo {
+    max-height: 46px;
+    margin: 10px 0;
+
+}
+
+nav a {
+    margin: 0 20px;
+    color: #555;
+    font-size: 1.3rem;
+}
+
+
+.icn {
+    font-size: 25px;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.info-card {
+    padding-left: 100px !important;
+}
+
+
+.dlinnieBloki {
+    background-color: rgba(159, 159, 159, 0.5);
+    color: white;
+}
+
+.parallax-container {
+    height: 900px;
+}
+
+.phone a {
+    font-size: 50px;
+}
+
+.soc-icon .fab {
+    font-size: 50px;
+    margin-left: 30px;
+    color: black;
+}
+
+.fi {
+    font-size: 30px;
+}
+
+.vvs {
+    background-color: rgba(255, 255, 255, 0.86);
+    border-radius: 20px;
+    margin-top: 120px;
+    color: #464545;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.info {
+    margin-top: 60px;
+    margin-bottom: 120px;
+}
+
+.phone {
+    margin-top: 10px;
+    padding-left: 50px;
+}
+
+.soc-icon {
+    padding-left: 120px;
+}
+
+.dostavka {
+    padding-left: 50px;
+}
+
+.footericon {
+    padding-left: 25px;
+}
+
+.modal-overlay {
+    background-color: rgba(255, 255, 255, 0.78);
+    opacity: 1 !important;
+}
+
+.bread-nav {
+    background-color: transparent;
+    box-shadow: none;
+
+}
+
+.bread-nav .breadcrumb {
+    color: black;
+    margin: 0;
+}
+
+.breadcrumb:before {
+    content: '\E5CC';
+    color: black;
+}
+
+.info .soc-icon .fab {
+    color: #039be5;
+    font-size: 50px;
+    margin-right: 40px;
+    margin-top: 10px;
+}
+
+.info .soc-icon .fa-whatsapp:hover {
+    color: #25D366;
+}
+
+.info .soc-icon .fa-vk:hover {
+    color: #4680C2;
+}
+
+.info .soc-icon .fa-instagram:hover {
+    color: #a84a8b;
+}
+
+.phone {
+    margin-top: 10px;
+
+}
+
+.modal-trigger img {
+    margin-bottom: 15px;
+}
+
+.number {
+    font-family: 'Arial', sans-serif;
+}
+
+.relative {
+    position: relative;
+    height: 100%;
+}
+.relative .btn {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+}
+
+.btn.deep-orange {
+    box-shadow: none;
+    transition: .5s;
+    border-radius: 50px;
+}
+
+.btn.deep-orange:hover {
+    border-radius: 5px;
+}
