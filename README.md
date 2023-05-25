@@ -3,7 +3,7 @@ Development of a website for the sale of handmade stuffed toys.
 
 This repository contains the code for my awesome website, which consists of three pages:
 
-- [Home Page](#blob/main/index.html)
+- [Home Page](#index.html)
 - [Catalog Page](#catalog.html)
 - [Contact Page](#send.html)
 
